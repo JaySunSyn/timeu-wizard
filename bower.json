@@ -4,10 +4,11 @@
   "authors": [
     "Uemit Seren <uemit.seren@gmail.com>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "Displays progress through a sequence by breaking it up into multiple logical and numbered steps",
   "keywords": [
     "web-components",
     "polymer",
+    "stepper",
     "wizard",
     "progress"
   ],
